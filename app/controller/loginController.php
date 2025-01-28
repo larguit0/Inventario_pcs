@@ -45,7 +45,7 @@
 				    }else{
 
                         $usuarioValido = 'ACEMA';
-                        $contraseñaValida = 'ACEMA123';
+                        $contraseñaValida = '123';
 
                         if ($usuario == $usuarioValido && $clave == $contraseñaValida) {
                             
